@@ -11,5 +11,5 @@ git init
 git add .
 git commit -m "Initial commit: Basic REST API with Flask"
 git branch -M main
-git remote add origin <your-github-repo-url>
+git remote add origin https://github.com/Cyber-Netic/BookAPI/blob/main/app.py
 git push -u origin main
